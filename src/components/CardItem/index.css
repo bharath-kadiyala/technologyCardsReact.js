@@ -1,0 +1,56 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+}
+
+.list-item {
+  padding-top: 30px;
+  padding-left: 25px;
+  padding-bottom: 40px;
+  padding-right: 40px;
+  list-style-type: none;
+  background-color: #ffff;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  margin-right: 24px;
+  margin-left: 24px;
+  margin-bottom: 48px;
+  min-width: 300px;
+}
+
+.title {
+  text-align: start;
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #171f46;
+  margin-bottom: 8px;
+}
+
+.pera {
+  text-align: start;
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #64748b;
+  margin-bottom: 8px;
+}
+
+.img-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.img-sty {
+  height: 80px;
+  width: 80px;
+}
